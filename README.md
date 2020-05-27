@@ -1,9 +1,9 @@
 # auto-nx
 
-Copy .env.example into .env
-Fill in the details.
+Create .env, following the fields in .env.example  
+Get anticaptcha key from https://anti-captcha.com/ (about \$2 / 1000 captchas) 
 
-Get anticaptcha key from https://anti-captcha.com/ (about \$2 / 1000 captchas)
-
-`npm install`
-`npm run dev`
+```bash
+npm install
+npm run dev
+```
